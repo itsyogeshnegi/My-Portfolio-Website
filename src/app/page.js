@@ -37,7 +37,7 @@ export default function Home() {
 
         {/* SUB TEXT */}
         <p className="mt-8 text-gray-400 text-lg">
-          Frontend Developer • React • Next.js
+          Software Developer • React • Next.js • Node.js • MongoDB • Full-Stack
         </p>
 
         {/* FOOTER NOTE */}
